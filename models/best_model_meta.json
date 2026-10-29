@@ -1,0 +1,7 @@
+{
+  "model": "LightGBM",
+  "horizon": 14,
+  "trained_until": "2017-08-15",
+  "cv_mae": 42063.960060578735,
+  "cv_rmse": 58546.649083352684
+}
